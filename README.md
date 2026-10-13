@@ -24,6 +24,7 @@ O notebook contém o passo a passo, as saídas executadas, os gráficos, a infer
 | `experiments.py` | Implementações comentadas de treino, avaliação e comparação |
 | `prepare_dataset.py` | Seleção reproduzível do VOC2007, com semente 57 |
 | `rotulos_treino_makesense.zip` | TXT YOLO das 64 imagens de treino e definição das classes |
+| `rotulos_makesense_export.zip` | Exportação real: 64 TXT, 94 caixas, auditada contra os rótulos de treino |
 | `annotation_review.zip` | Folhas de revisão de todas as 64 imagens e evidência da ferramenta |
 | `requirements.txt` | Dependências da execução |
 
