@@ -1,0 +1,7 @@
+ultralytics==8.4.177
+torch>=2.5
+torchvision>=0.20
+pandas>=2.2
+matplotlib>=3.9
+scikit-learn>=1.5
+pillow>=10
